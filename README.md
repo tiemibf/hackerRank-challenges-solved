@@ -3,5 +3,5 @@ Practicing coding through these HackerRank challenges. Here they are my code sol
 
 | Number      | Challenge Name |
 | ----------- | -----------    |
-|     1       | [Plus Minus](#)|
+|     1       | [Plus Minus](https://github.com/tiemibf/hackerRank-challenges-solved/blob/main/plusminus)|
 |     2       | Text           |
